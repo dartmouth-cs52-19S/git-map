@@ -42,5 +42,16 @@
       173.7518
     ],
     "year": "TH"
+  },
+  {
+    "name": "Eric Zhang",
+    "iconUrl": "images/eric.png",
+    "url": "//ezzhang.me",
+    "message": "Here are 3 fun facts about NASA!",
+    "lat_long": [
+      41.771488,
+      -88.148003
+    ],
+    "year": "'20"
   }
 ]
